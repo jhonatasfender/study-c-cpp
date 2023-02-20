@@ -1,0 +1,3 @@
+/home/jonatas/projects/github/study-c-cpp/cmake-build-debug/CMakeFiles/study_c_cpp.dir
+/home/jonatas/projects/github/study-c-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jonatas/projects/github/study-c-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
