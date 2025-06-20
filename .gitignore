@@ -1,0 +1,77 @@
+# IDE files (CLion/IntelliJ)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Makefiles (if using Make instead of CMake)
+Makefile
+
+# Core dumps
+core.*
+
+# Logs
+*.log
+
+# CMake cache and files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Coverage
+*.gcov
+*.gcno
+*.gcda
+
+# Valgrind
+*.memcheck
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Archive files
+*.tar
+*.zip
+*.7z
+*.rar
