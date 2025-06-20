@@ -24,6 +24,39 @@ out/
 *.out
 *.app
 
+# C/C++ executables (without extension)
+# Ignore all files without extension (typically executables)
+*
+# But allow directories
+!*/
+# Allow only specific file types for C/C++ development
+!*.c
+!*.cpp
+!*.cxx
+!*.cc
+!*.C
+!*.h
+!*.hpp
+!*.hxx
+!*.hh
+!*.H
+!*.inc
+!*.inl
+# Build and config files
+!*.cmake
+!CMakeLists.txt
+!*.mk
+!Makefile.*
+# Documentation
+!*.md
+!*.txt
+!*.rst
+# Git and project files
+!.gitignore
+!.gitattributes
+!LICENSE
+!README*
+
 # Debug files
 *.dSYM/
 *.su
