@@ -108,3 +108,30 @@ CTestTestfile.cmake
 *.zip
 *.7z
 *.rar
+
+# SSH files
+# Private keys
+*.pem
+*.key
+*.ppk
+id_rsa
+id_ed25519
+id_ecdsa
+id_dsa
+# SSH config files
+ssh_config
+ssh_known_hosts
+known_hosts
+# SSH agent files
+ssh-agent
+ssh-add
+# SSH connection files
+*.ssh/
+.ssh/
+# SSH certificates
+*.crt
+*.cert
+*.p12
+*.pfx
+# SSH public keys (optional - some people want to track these)
+# *.pub
